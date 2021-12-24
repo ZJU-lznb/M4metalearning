@@ -3,7 +3,7 @@
 This page contains the explanation of our forecast method for the M4 competition, authored by Pablo Montero-Manso, Thiyanga Talagala, Rob J Hyndman and George Athanasopoulos.
 
 As part of our submission, we are producing the R package `M4metalearning`, see installation instructions below. This package is intended to facilitate reproducing the results of our submission, but can also be used on its own to apply our approach to other datasets, either using the pretrained model submitted to the M4 competition or by training new models.
-
+https://www.sciencedirect.com/science/article/pii/S0169207019300895#fig1
 Additionally, the authors have produced another R package `M4comp2018`, which facilitates the users the access to the M4 competition dataset. [The M4comp2018 package can be found here](https://github.com/carlanetto/M4comp2018)
 
 The description is divided into three sections, the first t
